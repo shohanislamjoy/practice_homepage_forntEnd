@@ -22,10 +22,13 @@
 
 .nav-bar li a {
     color: #bac8ba;
+    text-decoration: none;
+    padding: 5px;
 }
 
-
-/* Style the header */
+.nav-bar li a:hover {
+    opacity: 2;
+}
 
 .main_features {
     text-align: center;
