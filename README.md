@@ -7,7 +7,7 @@ The practice_homepage_forntEnd project aims to provide hands-on experience with 
 
 ## Project Demo
 
-You can view the deployed practice homepage by clicking on the following link: [Practice Homepage Demo](https://shohan999ronol.github.io/practice_homepage_forntEnd)
+You can view the deployed practice homepage by clicking on the following link: [Practice Homepage Demo](https://shohanislamjoy.github.io/practice_homepage_forntEnd)
 
 ## Usage
 
